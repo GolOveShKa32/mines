@@ -17,7 +17,7 @@
   "STOCK":[{"GEO": 20, "POLY": 28}, {"GEO": 15, "POLY": 21}, {"GEO": 10, "POLY": 14}, {"GEO": 5, "POLY": 7}, 360],
   "UP":[{"ZZ": 28, "POLY": 200}, {"ZZ": 21, "POLY": 150}, {"ZZ": 14, "POLY": 100}, {"ZZ": 7, "POLY": 50}, 160],
   "SKAN":[{"BRD": 4, "TRANS": 4}, {"BRD": 3, "TRANS": 3}, {"BRD": 2, "TRANS": 2}, {"BRD": 1, "TRANS": 1}, 60],
-  "POLY":[{"G_CRY": 2400}, "G_CRY": 1800}, "G_CRY": 1200}, "G_CRY": 600}, 3],
+  "POLY":[{"G_CRY": 2400}, {"G_CRY": 1800}, {"G_CRY": 1200}, {"G_CRY": 600}, 3],
   "NANO":[{"R_CRY": 2400}, {"R_CRY": 1800}, {"R_CRY": 1200}, {"R_CRY": 600}, 5],
   "ACCU":[{"B_CRY": 2400}, {"B_CRY": 1800}, {"B_CRY": 1200}, {"B_CRY": 600}, 4],
   "TRANS":[{"V_CRY": 2400}, {"V_CRY": 1800}, {"V_CRY": 1200}, {"V_CRY": 600}, 6],
